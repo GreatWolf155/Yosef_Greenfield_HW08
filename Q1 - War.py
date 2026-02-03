@@ -41,8 +41,56 @@ Computer score reaches 10 → Computer wins
 
 import random
 
-# choose 10 random cards
-for _ in range(10):
-    suit = random.choice(["❤️", "♦️", "♣️", "♠️"])
-    card = random.choice([2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A'])
-    print("Your card is:", card, suit)
+player_score = 0
+computer_score = 0
+while player_score < 10 and computer_score < 10:
+    #player gets a card
+    player_suit = random.choice(["❤️", "♦️", "♣️", "♠️"])
+    player_card = random.choice([2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A'])
+    print("Your card is:", player_card, player_suit)
+    if player_card == 'J':
+        player_power = 11
+    elif player_card == 'Q':
+        player_power = 12
+    elif player_card == 'K':
+        player_power = 13
+    elif player_card == 'A':
+        player_power = 14
+    else:
+        player_power = player_card
+
+    #computer gets a card, but we need to make sure it isnt the same card
+    while True:
+        computer_suit = random.choice(["❤️", "♦️", "♣️", "♠️"])
+        computer_card = random.choice([2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K', 'A'])
+        if player_card == computer_card and player_suit == computer_suit:
+            continue
+        break
+
+    print("Computer's card is:", computer_card, computer_suit)
+    if computer_card == 'J':
+        computer_power = 11
+    elif computer_card == 'Q':
+        computer_power = 12
+    elif computer_card == 'K':
+        computer_power = 13
+    elif computer_card == 'A':
+        computer_power = 14
+    else:
+        computer_power = computer_card
+
+    if player_power > computer_power:
+        player_score += 1
+    elif computer_power > player_power:
+        computer_score += 1
+    else:
+        continue
+    print()
+    print("Player score:", player_score)
+    print("Computer score:", computer_score)
+    input()
+
+if player_score == 10:
+    print("Player wins")
+else:
+    print("Computer wins")

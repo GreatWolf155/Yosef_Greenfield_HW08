@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a739da20-3030-44fb-b18c-65ddb82cf375" name="Changes" comment="" />
+    <list default="true" id="a739da20-3030-44fb-b18c-65ddb82cf375" name="Changes" comment="instructions">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/1.2.26 E1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/1.2.26 E2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/1.2.26 E3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/1.2.26 E4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Class Assignment - Error Handling &amp; Arrow Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Class Assignment - Memory Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Class Assignment - Python Dates &amp; Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Class Assignment - Python Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Python Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Python Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/Restaurant Seating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/SQL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Assignments and Test Functions/cheap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Exercise DataFrame Missing Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Exercise Matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Exercise Pandas Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Class Exercise Pivot Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Date Time Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Date, Math &amp; Strings Home Exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Dictionary Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Home Exercises/Home Exercise - Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Home Exercises/Home Exercise - Dictionaries and Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Home Exercises/Home Exercise - For &amp; While Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Home Exercises/Home Exercise Template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Home Exercises/exercises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/MPG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Math Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Memory Game - Yosef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Modules and Methods/Array Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/quadratic equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Q1 - War.py" beforeDir="false" afterPath="$PROJECT_DIR$/Q1 - War.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GreatWolf155"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GreatWolf155/Yosef_Greenfield_HW08.git",
+    "accountId": "1783e9ba-609b-4103-ba83-94b6d990c16d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -18,7 +83,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Q1 - War.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -36,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1770068544640</updated>
     </task>
+    <task id="LOCAL-00001" summary="instructions">
+      <option name="closed" value="true" />
+      <created>1770070626530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770070626530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="instructions" />
+    <option name="LAST_COMMIT_MESSAGE" value="instructions" />
   </component>
 </project>
